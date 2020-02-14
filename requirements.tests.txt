@@ -1,5 +1,5 @@
 faker
-model-mommy
+model-bakery
 inte-rando
 inte-prn
 inte-ae
