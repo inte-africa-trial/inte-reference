@@ -1,6 +1,5 @@
 faker
-model-mommy
-inte-rando
+model-bakery
 inte-prn
 inte-ae
 inte-labs
@@ -9,7 +8,7 @@ inte-metadata-rules
 inte-reference
 inte-sites
 inte-screening
-inte-validators
+inte-form-validators
 inte-visit-schedule
 django-collect-offline
 django-collect-offline-files
